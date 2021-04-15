@@ -1,4 +1,4 @@
-package backjun.Simpleexample.s10869;
+package backjun.Simpleexample.input_output.solution2557;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,14 +13,9 @@ public class Main {
     public void solution() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //        StringTokenizer st = new StringTokenizer(br.readLine());
-        String[] w = br.readLine().split(" ");
-        int a = Integer.parseInt(w[0]);
-        int b = Integer.parseInt(w[1]);
+        String[] a = br.readLine().split(" ");
 
-        System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println(a*b);
-        System.out.println(a/b);
-        System.out.println(a%b);
+        System.out.println(Integer.parseInt(a[0])+Integer.parseInt(a[1]));
+
     }
 }
