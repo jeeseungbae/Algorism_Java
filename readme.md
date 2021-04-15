@@ -2,4 +2,4 @@
 
 알고리즘 연습
 
-[알고리즘 보러가기](./src/backjun)
+[알고리즘 보러가기 - 연습](./src/backjun/Simpleexample)
