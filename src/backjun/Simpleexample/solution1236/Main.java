@@ -1,4 +1,4 @@
-package backjun.Simpleexample.Solution1236;
+package backjun.Simpleexample.solution1236;
 
 import java.io.BufferedReader;
 import java.io.IOException;
