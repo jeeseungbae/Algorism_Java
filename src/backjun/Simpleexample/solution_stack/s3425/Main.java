@@ -7,9 +7,6 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
-
-    private BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-    private StringBuilder sb = new StringBuilder();
     private int n;
 
     private List<List<Integer>> board = new ArrayList<>();
