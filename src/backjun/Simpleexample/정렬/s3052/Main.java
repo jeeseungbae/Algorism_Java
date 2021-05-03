@@ -1,4 +1,4 @@
-package backjun.Simpleexample.arrangement.s3052;
+package backjun.Simpleexample.정렬.s3052;
 
 import java.io.*;
 import java.util.ArrayList;

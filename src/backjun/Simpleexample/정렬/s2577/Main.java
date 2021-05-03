@@ -1,7 +1,6 @@
-package backjun.Simpleexample.arrangement.s2577;
+package backjun.Simpleexample.정렬.s2577;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
