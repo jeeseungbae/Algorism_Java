@@ -1,6 +1,4 @@
-package backjun.Simpleexample.arrangement.s11728;
-
-import com.sun.source.tree.Tree;
+package backjun.Simpleexample.정렬.s11728;
 
 import java.io.*;
 import java.util.*;

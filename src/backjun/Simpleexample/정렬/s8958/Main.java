@@ -1,4 +1,4 @@
-package backjun.Simpleexample.arrangement.s8958;
+package backjun.Simpleexample.정렬.s8958;
 
 import java.io.BufferedReader;
 import java.io.IOException;

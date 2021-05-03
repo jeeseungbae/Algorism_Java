@@ -1,8 +1,7 @@
-package backjun.Simpleexample.arrangement.s4344;
+package backjun.Simpleexample.정렬.s4344;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;

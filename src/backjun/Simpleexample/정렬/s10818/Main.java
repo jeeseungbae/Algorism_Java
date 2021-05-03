@@ -1,4 +1,4 @@
-package backjun.Simpleexample.arrangement.s10818;
+package backjun.Simpleexample.정렬.s10818;
 
 import java.io.*;
 import java.util.StringTokenizer;
