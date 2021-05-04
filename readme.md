@@ -18,4 +18,5 @@
 프로그래머스 알고리즘 연습
 
 Level 2
-- []()
+- [문자열압축](./src/programmers/level2/문자열압축)
+- [카카오프렌즈컬러링북](./src/programmers/level2/카카오프렌즈컬러링북)
