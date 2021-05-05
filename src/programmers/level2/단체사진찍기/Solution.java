@@ -1,8 +1,6 @@
 package programmers.level2.단체사진찍기;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 public class Solution {
     String[] d;
@@ -10,6 +8,7 @@ public class Solution {
     boolean[] visited;
     int[] ch;
     int answer;
+
 
     public int solution(int n, String[] data) {
         d = data;
@@ -29,7 +28,7 @@ public class Solution {
         return answer;
     }
 
-    public static void dfs(int idx){
+    public void dfs(int idx){
         if(idx == 8){
             if(check()) answer++;
         }
@@ -45,11 +44,7 @@ public class Solution {
         }
     }
 
-
-
-
-
-    public static boolean check(){
+    public boolean check(){
         int a,b,res;
         char op;
         for(String s : d){

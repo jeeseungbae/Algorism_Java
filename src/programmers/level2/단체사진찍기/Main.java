@@ -7,5 +7,7 @@ public class Main {
 
 
         System.out.println(s.solution(2,new String[]{"N~F=0", "R~T>2"}));
+
+        
     }
 }
