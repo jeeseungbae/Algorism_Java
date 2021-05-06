@@ -5,15 +5,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+public class S1430 {
 
     private List<int[]> answer = new ArrayList<>();
     private List<int[]> side = new ArrayList<>();
 
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S1430 s1430 = new S1430();
+        s1430.init();
     }
 
     public double solution(int n,int r, double d,int x, int y, int count) {

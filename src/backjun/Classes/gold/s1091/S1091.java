@@ -5,14 +5,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S1091 {
 
     int count=0;
 
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S1091 s1091 = new S1091();
+        s1091.init();
     }
 
     public int solution(int n, int n_init, int k){

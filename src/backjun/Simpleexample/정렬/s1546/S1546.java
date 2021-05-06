@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S1546 {
 
     private double maxscore = 0;
     private int n;
@@ -16,7 +16,7 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S1546 main = new S1546();
         main.solution();
     }
 

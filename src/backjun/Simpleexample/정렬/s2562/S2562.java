@@ -1,12 +1,12 @@
-package backjun.Simpleexample.input_output.s10869;
+package backjun.Simpleexample.정렬.s2562;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class S2562 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S2562 main = new S2562();
         main.solution();
     }
 

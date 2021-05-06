@@ -2,7 +2,7 @@ package programmers.level2.단체사진찍기;
 
 import java.util.HashMap;
 
-public class Solution {
+public class picture {
     String[] d;
     HashMap<Character,Integer> map ;
     boolean[] visited;

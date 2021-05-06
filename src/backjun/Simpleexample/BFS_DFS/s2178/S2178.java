@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class Main {
+public class S2178 {
 
     private int row;
     private int column;
@@ -18,8 +18,8 @@ public class Main {
     private int[] dy = {1,0,-1,0};
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S2178 s2178 = new S2178();
+        s2178.init();
     }
 
     public void solution() throws IOException {

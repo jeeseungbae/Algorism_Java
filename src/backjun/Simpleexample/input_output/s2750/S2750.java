@@ -1,13 +1,13 @@
-package backjun.Simpleexample.input_output.solution2750;
+package backjun.Simpleexample.input_output.s2750;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class S2750 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.solution();
+        S2750 s2750 = new S2750();
+        s2750.solution();
     }
 
     public void solution() throws IOException {

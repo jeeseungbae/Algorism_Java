@@ -3,13 +3,13 @@ package backjun.Simpleexample.정렬.s11728;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class S11728 {
 
     int n_count,m_count;
     StringBuffer sb = new StringBuffer();
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S11728 main = new S11728();
         main.init();
     }
 

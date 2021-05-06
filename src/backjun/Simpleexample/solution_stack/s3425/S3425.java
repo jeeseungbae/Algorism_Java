@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S3425 {
     private int n;
 
     private List<List<Integer>> board = new ArrayList<>();
@@ -20,8 +20,8 @@ public class Main {
     private int count=0;
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S3425 s3425 = new S3425();
+        s3425.init();
     }
 
     public void solution(String order){

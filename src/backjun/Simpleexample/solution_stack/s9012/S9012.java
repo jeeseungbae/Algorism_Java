@@ -1,17 +1,15 @@
 package backjun.Simpleexample.solution_stack.s9012;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S9012 {
 
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S9012 main = new S9012();
         main.init();
     }
 

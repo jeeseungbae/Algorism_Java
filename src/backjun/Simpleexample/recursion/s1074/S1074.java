@@ -4,15 +4,15 @@ package backjun.Simpleexample.recursion.s1074;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S1074 {
 
     private StringBuffer sb = new StringBuffer();
 
     private int count;
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S1074 s1074 = new S1074();
+        s1074.init();
     }
 
     public int solution(int n, int row,int column) throws IOException {
