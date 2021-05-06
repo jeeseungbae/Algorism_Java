@@ -1,13 +1,13 @@
-package backjun.Simpleexample.정렬.s2562;
+package backjun.Simpleexample.input_output.s10869;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class S10869 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.solution();
+        S10869 s10869 = new S10869();
+        s10869.solution();
     }
 
     public void solution() throws IOException {

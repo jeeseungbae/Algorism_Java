@@ -3,7 +3,7 @@ package backjun.Simpleexample.backtracking.s9663;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class S9663 {
 
     private Stack<Integer> row = new Stack<>();
     private Stack<Integer> column = new Stack<>();
@@ -14,8 +14,8 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S9663 s9663 = new S9663();
+        s9663.init();
     }
 
 

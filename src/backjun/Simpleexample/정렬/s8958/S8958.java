@@ -7,13 +7,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S8958 {
 
     private int n;
     private List<String[]> quiz = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S8958 main = new S8958();
         main.solution();
     }
 

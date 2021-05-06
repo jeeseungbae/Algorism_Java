@@ -3,9 +3,9 @@ package backjun.Simpleexample.정렬.s10818;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S10818 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S10818 main = new S10818();
         main.solution();
     }
 

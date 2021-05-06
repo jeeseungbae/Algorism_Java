@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class S3052 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S3052 main = new S3052();
         main.solution();
     }
 

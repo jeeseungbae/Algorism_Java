@@ -5,14 +5,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S10828 {
 
     private List<Integer> stack = new ArrayList<>();
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S10828 main = new S10828();
         main.init();
     }
 

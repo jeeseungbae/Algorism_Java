@@ -3,13 +3,13 @@ package backjun.Simpleexample.recursion.s11729;
 
 import java.io.*;
 
-public class Main {
+public class S11729 {
 
     StringBuffer sb = new StringBuffer();
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S11729 s11729 = new S11729();
+        s11729.init();
     }
 
     public void solution(int a,int b,int n) throws IOException {

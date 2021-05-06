@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class Main {
+public class S1926 {
 
     private int[][] board;
     private int count;
@@ -14,8 +14,8 @@ public class Main {
     private int[] max = {0,0};
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S1926 s1926 = new S1926();
+        s1926.init();
     }
 
     public void solution() throws IOException {

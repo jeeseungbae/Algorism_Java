@@ -3,7 +3,7 @@ package backjun.Simpleexample.backtracking.s15649;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S15649 {
 
     private StringBuffer sb = new StringBuffer();
     private int[] store;
@@ -11,8 +11,8 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S15649 s15649 = new S15649();
+        s15649.init();
     }
 
     public void solution(int n, int m,int k) {

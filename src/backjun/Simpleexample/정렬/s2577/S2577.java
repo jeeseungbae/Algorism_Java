@@ -2,9 +2,9 @@ package backjun.Simpleexample.정렬.s2577;
 
 import java.io.*;
 
-public class Main {
+public class S2577 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S2577 main = new S2577();
         main.solution();
     }
 

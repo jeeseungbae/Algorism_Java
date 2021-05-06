@@ -1,4 +1,4 @@
-package backjun.Simpleexample.solution1236;
+package backjun.Simpleexample.s1236;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,10 +6,10 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S1236 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.solution();
+        S1236 s1236 = new S1236();
+        s1236.solution();
     }
 
     public void solution() throws IOException {

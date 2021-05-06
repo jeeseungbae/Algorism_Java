@@ -3,15 +3,14 @@ package backjun.Simpleexample.recursion.s2447;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S2447 {
 
     private String[][] pattern;
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S2447 main = new S2447();
         main.init();
     }
 

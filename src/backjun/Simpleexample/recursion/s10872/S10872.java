@@ -3,13 +3,12 @@ package backjun.Simpleexample.recursion.s10872;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S10872 {
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
-        main.init();
+        S10872 s10872 = new S10872();
+        s10872.init();
     }
 
     public int solution(int n) throws IOException {

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class S4344 {
 
     private double n;
     private List<Integer> score = new ArrayList<>();
@@ -15,7 +15,7 @@ public class Main {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
-        Main main = new Main();
+        S4344 main = new S4344();
         main.init();
     }
 
