@@ -13,9 +13,9 @@
 
 
 티어별 정리
-###[골드](./src/backjun/Classes/gold)
+### [골드](./src/backjun/Classes/gold)
 - [공격분류_s1430](./src/backjun/Classes/gold/gold5/공격분류s1430)
 - [카드섞기_s1091](./src/backjun/Classes/gold/gold5/카드섞기s1091)
 
 
-###[실버](./src/backjun/Classes/sliver)
+### [실버](./src/backjun/Classes/sliver)
