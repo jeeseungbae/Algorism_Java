@@ -1,11 +1,8 @@
-package backjun.Classes.gold.gold5.NQueen;
+package backjun.Classes.gold.gold5.NQueens9663;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
