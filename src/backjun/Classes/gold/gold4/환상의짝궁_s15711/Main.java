@@ -1,4 +1,4 @@
-package backjun.Classes.gold.gold4.환상의짝궁;
+package backjun.Classes.gold.gold4.환상의짝궁_s15711;
 
 import java.io.*;
 import java.util.ArrayList;
