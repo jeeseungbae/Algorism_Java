@@ -22,4 +22,6 @@
 
 
 ### [실버](./src/backjun/Classes/sliver)
+
+#### 실버 2
 - [A Symmetrical Pizza](src/backjun/Classes/silver/silver2/ASymmetricalPizza)
