@@ -28,3 +28,6 @@
 
 #### 실버 2
 - [A Symmetrical Pizza](src/backjun/Classes/silver/silver2/ASymmetricalPizza_s16521)
+
+#### 실버 3
+- [사람의수_s1206](src/backjun/Classes/silver/silver3/사람의수_s1206)
