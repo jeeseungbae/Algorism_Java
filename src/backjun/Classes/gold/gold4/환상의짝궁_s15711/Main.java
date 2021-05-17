@@ -11,8 +11,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        Main s9663 = new Main();
-        s9663.init();
+        Main s15711 = new Main();
+        s15711.init();
     }
 
     public String solution(long total){

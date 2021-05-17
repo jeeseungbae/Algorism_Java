@@ -9,8 +9,8 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        Main s9663 = new Main();
-        s9663.init();
+        Main s16521 = new Main();
+        s16521.init();
     }
 
     public int solution(double r){
