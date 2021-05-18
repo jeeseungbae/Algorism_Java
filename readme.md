@@ -31,3 +31,6 @@
 
 #### 실버 3
 - [사람의수_s1206](src/backjun/Classes/silver/silver3/사람의수_s1206)
+
+#### 실버 4
+- [퇴사_s14501](src/backjun/Classes/silver/silver4/퇴사_s14501)
