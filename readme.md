@@ -15,6 +15,9 @@
 티어별 정리
 ### [골드](./src/backjun/Classes/gold)
 
+#### 골드 2
+- [빵집_s3109](src/backjun/Classes/gold/gold2/빵집_s3109)
+
 #### 골드 4
 - [환상의짝궁](src/backjun/Classes/gold/gold4/환상의짝궁_s15711)
 
