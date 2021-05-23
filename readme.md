@@ -10,6 +10,7 @@
 - [Input_Output](./src/backjun/Simpleexample/input_output)
 - [recursion](./src/backjun/Simpleexample/recursion)
 - [Stack](./src/backjun/Simpleexample/solution_stack)
+- [그리디](./src/backjun/Simpleexample/그리디)
 
 
 티어별 정리
