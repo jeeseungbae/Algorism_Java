@@ -16,7 +16,7 @@
 티어별 정리
 ### [골드](./src/backjun/Classes/gold)
 
-#### 골드 2
+#### 골드 1
 - [책페이지_s1019](src/backjun/Classes/gold/gold1/책페이지_s1019)
 
 #### 골드 2
