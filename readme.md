@@ -17,6 +17,9 @@
 ### [골드](./src/backjun/Classes/gold)
 
 #### 골드 2
+- [책페이지_s1019](src/backjun/Classes/gold/gold1/책페이지_s1019)
+
+#### 골드 2
 - [빵집_s3109](src/backjun/Classes/gold/gold2/빵집_s3109)
 
 #### 골드 3
