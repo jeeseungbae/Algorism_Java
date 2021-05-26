@@ -24,6 +24,7 @@
 
 #### 골드 3
 - [소수의연속합_s1644](src/backjun/Classes/gold/gold3/소수의연속합_s1644)
+- [역사_s1613](src/backjun/Classes/gold/gold3/역사_s1613)
 
 #### 골드 4
 - [환상의짝궁](src/backjun/Classes/gold/gold4/환상의짝궁_s15711)
