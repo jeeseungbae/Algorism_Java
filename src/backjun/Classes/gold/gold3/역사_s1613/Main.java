@@ -56,6 +56,7 @@ public class Main<list> {
             }
         }
 
+
         st = new StringTokenizer(br.readLine());
         int s = Integer.parseInt(st.nextToken());
 
