@@ -16,11 +16,15 @@
 티어별 정리
 ### [골드](./src/backjun/Classes/gold)
 
+#### 골드 1
+- [책페이지_s1019](src/backjun/Classes/gold/gold1/책페이지_s1019)
+
 #### 골드 2
 - [빵집_s3109](src/backjun/Classes/gold/gold2/빵집_s3109)
 
 #### 골드 3
 - [소수의연속합_s1644](src/backjun/Classes/gold/gold3/소수의연속합_s1644)
+- [역사_s1613](src/backjun/Classes/gold/gold3/역사_s1613)
 
 #### 골드 4
 - [환상의짝궁](src/backjun/Classes/gold/gold4/환상의짝궁_s15711)
