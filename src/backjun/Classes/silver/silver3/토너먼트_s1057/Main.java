@@ -15,6 +15,7 @@ public class Main {
     public int solution(int n,int jimin,int hansu){
         int count=0;
 
+        
         while(jimin!=hansu){
             jimin = jimin/2 + jimin%2;
             hansu = hansu/2 + hansu%2;
