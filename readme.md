@@ -37,8 +37,13 @@
 
 ### [실버](./src/backjun/Classes/sliver)
 
+#### 실버 1
+- [RGB거리_s1149](src/backjun/Classes/silver/silver1/RGB거리_s1149)
+
+
 #### 실버 2
 - [A Symmetrical Pizza](src/backjun/Classes/silver/silver2/ASymmetricalPizza_s16521)
+
 
 #### 실버 3
 - [사람의수_s1206](src/backjun/Classes/silver/silver3/사람의수_s1206)
