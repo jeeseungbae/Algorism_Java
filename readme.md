@@ -38,6 +38,7 @@
 ### [실버](./src/backjun/Classes/sliver)
 #### 실버 1
 - [RGB거리_s1149](src/backjun/Classes/silver/silver1/RGB거리_s1149)
+- [팰린드롬만들기_s1254](src/backjun/Classes/silver/silver1/팰린드롬만들기_s1254)
 
 
 #### 실버 2
