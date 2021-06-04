@@ -45,6 +45,8 @@
 - [A Symmetrical Pizza](src/backjun/Classes/silver/silver2/ASymmetricalPizza_s16521)
 - [가장긴증가하는부분수열](src/backjun/Classes/silver/silver2/가장긴증가하는부분수열)
 - [유기농배추_s1012](src/backjun/Classes/silver/silver2/유기농배추_s1012)
+- [호텔_s1106](src/backjun/Classes/silver/silver2/호텔_s1106)
+
 
 
 #### 실버 3
