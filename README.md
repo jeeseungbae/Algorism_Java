@@ -21,6 +21,7 @@
 
 #### 골드 2
 - [빵집_s3109](src/backjun/Classes/gold/gold2/빵집_s3109)
+- [IQTest_s1111](src/backjun/Classes/gold/gold2/IQTest_s1111)
 
 #### 골드 3
 - [소수의연속합_s1644](src/backjun/Classes/gold/gold3/소수의연속합_s1644)
@@ -48,6 +49,7 @@
 - [유기농배추_s1012](src/backjun/Classes/silver/silver2/유기농배추_s1012)
 - [호텔_s1106](src/backjun/Classes/silver/silver2/호텔_s1106)
 - [부분수열의합](src/backjun/Classes/silver/silver2/부분수열의합_s1182)
+- [베르트랑공준_s4948](src/backjun/Classes/silver/silver2/베르트랑공준_s4948)
 
 
 
