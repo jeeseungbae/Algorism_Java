@@ -21,6 +21,7 @@
 
 #### 골드 2
 - [빵집_s3109](src/backjun/Classes/gold/gold2/빵집_s3109)
+- [IQTest_s1111](src/backjun/Classes/gold/gold2/IQTest_s1111)
 
 #### 골드 3
 - [소수의연속합_s1644](src/backjun/Classes/gold/gold3/소수의연속합_s1644)
