@@ -41,6 +41,7 @@
 - [RGB거리_s1149](src/backjun/Classes/silver/silver1/RGB거리_s1149)
 - [팰린드롬만들기_s1254](src/backjun/Classes/silver/silver1/팰린드롬만들기_s1254)
 - [단지번호붙이기_s2667](src/backjun/Classes/silver/silver1/단지번호붙이기_s2667)
+- [동전1_s2293](src/backjun/Classes/silver/silver1/동전1_s2293)
 
 
 #### 실버 2
