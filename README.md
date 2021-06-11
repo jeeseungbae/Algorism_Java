@@ -58,6 +58,7 @@
 - [사람의수_s1206](src/backjun/Classes/silver/silver3/사람의수_s1206)
 - [숫자정사각형_s1051](src/backjun/Classes/silver/silver3/숫자정사각형_s1051)
 - [토너먼트_s1057](src/backjun/Classes/silver/silver3/토너먼트_s1057)
+- [대칭차집합_s1269](src/backjun/Classes/silver/silver3/대칭차집합_s1269)
 
 
 #### 실버 4
