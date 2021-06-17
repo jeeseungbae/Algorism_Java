@@ -52,6 +52,7 @@
 - [호텔_s1106](src/backjun/Classes/silver/silver2/호텔_s1106)
 - [부분수열의합](src/backjun/Classes/silver/silver2/부분수열의합_s1182)
 - [베르트랑공준_s4948](src/backjun/Classes/silver/silver2/베르트랑공준_s4948)
+- [잃어버린괄호_s1541](src/backjun/Classes/silver/silver2/잃어버린괄호_s1541)
 
 
 
@@ -69,4 +70,5 @@
 - [베스트셀러_s1302](src/backjun/Classes/silver/silver4/베스트셀러_s1302)
 - [수의정렬_s1015](src/backjun/Classes/silver/silver4/수의정렬_s1015)
 - [정사각형_s1485](src/backjun/Classes/silver/silver4/정사각형_s1485)
+- [MultiMax_s14753](src/backjun/Classes/silver/silver4/MultiMax_s14753)
 
