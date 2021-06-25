@@ -60,6 +60,7 @@
 - [숫자정사각형_s1051](src/backjun/Classes/silver/silver3/숫자정사각형_s1051)
 - [토너먼트_s1057](src/backjun/Classes/silver/silver3/토너먼트_s1057)
 - [대칭차집합_s1269](src/backjun/Classes/silver/silver3/대칭차집합_s1269)
+- [N과M_s15649](src/backjun/Classes/silver/silver3/N과M_s15649)
 
 
 #### 실버 4
