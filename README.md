@@ -26,6 +26,7 @@
 #### 골드 3
 - [소수의연속합_s1644](src/backjun/Classes/gold/gold3/소수의연속합_s1644)
 - [역사_s1613](src/backjun/Classes/gold/gold3/역사_s1613)
+- [파티_s1238](src/backjun/Classes/gold/gold3/파티_s1238)
 
 #### 골드 4
 - [환상의짝궁](src/backjun/Classes/gold/gold4/환상의짝궁_s15711)
@@ -61,6 +62,7 @@
 - [숫자정사각형_s1051](src/backjun/Classes/silver/silver3/숫자정사각형_s1051)
 - [토너먼트_s1057](src/backjun/Classes/silver/silver3/토너먼트_s1057)
 - [대칭차집합_s1269](src/backjun/Classes/silver/silver3/대칭차집합_s1269)
+- [N과M_s15649](src/backjun/Classes/silver/silver3/N과M_s15649)
 
 
 #### 실버 4
@@ -71,4 +73,5 @@
 - [수의정렬_s1015](src/backjun/Classes/silver/silver4/수의정렬_s1015)
 - [정사각형_s1485](src/backjun/Classes/silver/silver4/정사각형_s1485)
 - [MultiMax_s14753](src/backjun/Classes/silver/silver4/MultiMax_s14753)
+- [PencilFactory_s7121](src/backjun/Classes/silver/silver4/PencilFactory_s7121)
 
